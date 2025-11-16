@@ -55,12 +55,12 @@ Comma or newlines are expectable value terminators
 ### HEON - Example:
 
 ```
-// Root Object must also ways be Defined
+// Root Object must also ways be Defined  - Newline or Comma are expectable Termators
 {
-	// This is full 64bit  ID Type
-ID : 123u
-// String Type - Newline or Comma are expectable Termators
-Type : "Name ", "Array" :  [ 1,2,"3",1234i
+	// This is full 64bit ID Type - Note newline or Semi-
+	ID : 123u
+	// String Type - Newline or Comma are expectable Termators
+	Type : "Name ", "Array" :  [ 1,2,"3",1234i
 //
 T ]
 

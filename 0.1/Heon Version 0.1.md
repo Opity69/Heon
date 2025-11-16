@@ -54,7 +54,7 @@ Comma or newlines are expectable value terminators
 
 ### HEON - Example:
 
-```JSON
+```
 // Root Object must also ways be Defined
 {
 	// This is full 64bit  ID Type
